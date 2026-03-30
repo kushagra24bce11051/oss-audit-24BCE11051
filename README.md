@@ -147,7 +147,7 @@ This project is for educational purposes. Python is licensed under the PSF Licen
 
 👤 Author
 
-Name: Keshav Gupta
+Name: Kushagra Saxena
 Course: Open-Source Software
 
 ---
